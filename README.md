@@ -1,12 +1,33 @@
 # Machine-Learning-Practice
 
+## m10 Cross Validation & Hyperparameter Tuning
+- Dataset: bankloan.csv
+- Stratified K Fold
+- Grid search and Randomized search
+
+## m11 Imbalance Dataset
+- Dataset: bankloan.csv
+- Threshold optimization
+- Resampling: Undersampling & Oversampling
+
+## m12 Ensemble Model
+- Dataset: white_wine.csv
+- Voting Classifier
+- Random Forest
+- Decision Boundaries
+
+## m13 Boosting
+- Dataset: adult.csv
+- Adaptive Boosting
+- Gradient Boosting
+- Extreme Gradient Boosting (XGBoost)
 
 ## m14 Unsupervised Learning
 - Dataset: Mall_Customers.csv
 - PCA
 - K-Means
-- Elbow method
-- Silhoutte score
+>- Elbow method
+>- Silhoutte score
 
 ## m15 Agglomerative, K-Means, & DBScan Clustering
 - Dataset: Mall_Customers.csv
