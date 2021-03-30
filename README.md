@@ -1,8 +1,16 @@
 # Machine-Learning-Practice
 
-## m15 Agglomerative Clustering
 
+## m14 Unsupervised Learning
+- Dataset: Mall_Customers.csv
+- PCA
+- K-Means
+- Elbow method
+- Silhoutte score
 
+## m15 Agglomerative, K-Means, & DBScan Clustering
+- Dataset: Mall_Customers.csv
+- Dendrogram
 
 ## m16 Text Mining
 - Dataset : sms_spam_collection.csv
