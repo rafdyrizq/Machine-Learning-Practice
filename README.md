@@ -1,5 +1,61 @@
 # Machine-Learning-Practice
 
+## m1 Linear Regression
+- Dataset: sns.load_dataset('tips')
+- EDA: 
+>- describe statistics
+>- correlation
+>- graphical summary
+- OLS Regression
+- Multiple Linear Regression
+- Diagnostic and collineari
+
+## m2 Linear Regression
+- Dataset: sns.load_dataset('diamonds')
+- Understand domain knowledgde
+
+## m3 Classification
+- Dataset: bankloan.csv
+- Variance inflation factor (check multicolliearity)
+- Model Interpretation
+- Train test split
+- Validation (accuracy score)
+- Normalization (to avoid bias)
+- KNN
+
+## m4 KNN & Decision Tree
+- Dataset: white_wine.csv
+- KNN: finding best K
+- Decision tree 
+
+## m5 Generalization
+- Dataset: bankloan.csv
+- Splitting data: train set & test set
+- Manual hyperparameter tuning for KNN, Decision Tree, Ridge, Lasso
+
+## m6 Data Preparation & Feature Engineering
+- Dataset: sns.load_dataset('tips')
+- Preprocessing
+- Scaling
+- Encoding
+- Data transformation
+- Model Properties: coefficient
+
+## m7 Imputer
+- Dataset: melb_data.csv
+- Simple imputer
+
+## m8 Binning Effect
+- Dataset: disk.csv
+- Binning with pd.cut & KBinsDiscretizer
+- Feature selection
+- Feature Importance
+
+## m9 Model Evaluation
+- Dataset: white_wine.csv
+- Confusion matrix
+- Metric evaluation
+
 ## m10 Cross Validation & Hyperparameter Tuning
 - Dataset: bankloan.csv
 - Stratified K Fold
